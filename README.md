@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋, I'm Manav Kumar
 
-<!--
-**manavkumar102004/manavkumar102004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+- 🎓 AI Engineer / Aspiring Developer  
+- 🌱 Currently learning **Programming, Databases & AI concepts**
+- 💡 Interested in **Python, SQL, and Artificial Intelligence**
+- 🚀 Exploring real-world problem solving with code
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+- **Languages:** Python, SQL  
+- **Concepts:** Data Structures, Basics of AI, Logic Building  
+- **Tools:** Git, GitHub, VS Code  
+
+---
+
+
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+- 💼 Instagram: https://www.instagram.com/its_am.manav?igsh=MTYzNzV3ZWhrZWZzbQ%3D%3D&utm_source=qr  
+- ✉️ Email: manavkumar102004@gmail.com
+
+---
+
+⭐ *Feel free to explore my repositories and give a star if you like them!*
