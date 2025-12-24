@@ -24,6 +24,7 @@
 ## 📫 Connect With Me
 - 💼 Instagram: https://www.instagram.com/its_am.manav?igsh=MTYzNzV3ZWhrZWZzbQ%3D%3D&utm_source=qr  
 - ✉️ Email: manavkumar102004@gmail.com
+- linkedIn: www.linkedin.com/in/mr-manav-25203139a
 
 ---
 
