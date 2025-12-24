@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manav Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding"width="400"src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyNTR3Y2RjMG9lajZnZ3MyYWtpdXVmaGl5dTlqNGxycjZyMnQwbWFzYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ML15sUZFNyMy0Yv55m/source.gif">
-
 - 🔭 I’m currently working on [Python Programming language](https://github.com/manavkumar102004/Python-Programming-)
 
 - 🌱 I’m currently learning **Pyhton language , SQL**
